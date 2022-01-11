@@ -1,2 +1,2 @@
-# ArticFoxes
-ArcticFoxes.com Landing Page
+# ArcticFoxes
+ArcticFoxes.net Landing Page
