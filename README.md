@@ -1,4 +1,4 @@
-# ArcticFoxes
-ArcticFoxes.net Landing Page
+# ArcticFoxes.net
+Arcticfoxes.net landing page
 
-Docker image at https://quay.io/repository/tommytran732/personal
+Docker image at https://quay.io/repository/tommytran732/arcticfoxes.net
