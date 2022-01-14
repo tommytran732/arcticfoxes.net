@@ -11,3 +11,4 @@
 
 /.well-known/matrix/server
   Access-Control-Allow-Origin : *
+  Content-Type : application/json
