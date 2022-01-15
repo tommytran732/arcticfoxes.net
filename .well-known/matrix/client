@@ -1,6 +1,6 @@
 {   
   "m.homeserver": {
-    "base_url": "https://matrix.arcticfoxes.net",
+    "base_url": "https://synapse.arcticfoxes.net",
     "server_name": "arcticfoxes.net"
   },
   "m.identity_server": {
