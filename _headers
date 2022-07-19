@@ -1,5 +1,4 @@
 /
-  Content-Security-Policy : block-all-mixed-content
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   Cross-Origin-Opener-Policy : same-origin
