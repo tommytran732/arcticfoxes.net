@@ -1,5 +1,5 @@
 /
-  Content-Security-Policy : child-src 'self'; font-src 'self'; img-src 'self'; manifest-src 'self'
+  Content-Security-Policy : child-src 'self'; font-src 'self'; img-src 'self'; manifest-src 'self'; script-src 'self'
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   Cross-Origin-Opener-Policy : same-origin
