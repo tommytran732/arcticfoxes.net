@@ -1,5 +1,5 @@
 /
-  Content-Security-Policy : default-src 'none'
+  Content-Security-Policy : default-src 'none'; child-src 'self'; font-src 'self'; img-src 'self'
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   Cross-Origin-Opener-Policy : same-origin
