@@ -1,5 +1,5 @@
 /
-  Content-Security-Policy : default-src 'self'; font-src 'self' fonts.gstatic.com; style-src 'self' fonts.googleapis.com; form-action 'none'; frame-ancestors 'none'; block-all-mixed-content; base-uri 'none'
+  Content-Security-Policy : default-src 'self'; font-src 'self' fonts.gstatic.com; style-src 'self' fonts.googleapis.com; form-action 'none'; frame-ancestors 'none'; form-action 'none'; frame-ancestors 'none'; block-all-mixed-content; base-uri 'none'
   X-Content-Type-Options : nosniff
   Referrer-Policy : no-referrer
   Cross-Origin-Opener-Policy : same-origin
